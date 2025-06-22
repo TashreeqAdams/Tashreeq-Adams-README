@@ -49,19 +49,19 @@ Here are some of my milestone projects (to be updated as I progress!):
 🔹 **Technologies:** Artciulaate Storyline 360.
 🔹 **Status:** ✅ Completed
 
-### **2️⃣ Endless runner game** _(Coming Soon!)_
+### **2️⃣ Endless runner game**
 
 🔹 **Description:** An endless running game using Articulate Storyline.   
 🔹 **Technologies:** Artciulaate Storyline 360.
 🔹 **Status:** ✅ Completed
 
-### **3️⃣ Codespace Cat Instagram profile** _(Coming Soon!)_
+### **3️⃣ Codespace Cat Instagram profile**
 
 🔹 **Description:** A simple Instagram profile replica.  
 🔹 **Technologies:** HTML, CSS
 🔹 **Status:** ✅ Completed
 
-### **4️⃣ Responsive footer** _(Coming Soon!)_
+### **4️⃣ Responsive footer**
 
 🔹 **Description:** A responsive footer built with CSS and Tailwind CSS.  
 🔹 **Technologies:** HTML, CSS, Tailwind CSS
